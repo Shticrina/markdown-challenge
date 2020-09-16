@@ -1,7 +1,7 @@
 # Cristina Dinca
 > *People always want more that they need*
 
-![cristina-dinca](https://github.com/Shticrina/markdown-challenge/blob/master/CristinaDinca.jpg?raw=true)
+![cristina-dinca](https://github.com/Shticrina/markdown-challenge/blob/master/CristinaDincaCrop.jpg?raw=true)
 
 #### Me, in one sentence
 
