@@ -1,6 +1,8 @@
 # Cristina Dinca
 > *People always want more that they need*
 
+![cristina-dinca](https://github.com/Shticrina/markdown-challenge/blob/master/CristinaDinca.jpg?raw=true)
+
 #### Me, in one sentence
 
 | Property  | Value |
@@ -9,8 +11,6 @@
 | Favorite color  | corail  |
 | Favorite food  | pasta  |
 | Pinneapple on pizza  | <ul><li>- [ ] Yes</li><li>- [x] No</li></ul>  |
-
-![Philadelphia's Magic Gardens. This place was so cool!](/assets/images/philly-magic-gardens.jpg "Philadelphia's Magic Gardens")
 
 ### Hobbies
 
@@ -22,5 +22,18 @@
   - La vie est belle
   - Fight club
 - Photography
+
+### You can always count on me when...
+
+* you're stuck with something and you need help
+* you need help with some bug fixing
+* we have a team project and we need to organize and split the tasks between us
+* you need to order pizza and you aren't decided about the topping
+
+### A funny story
+
+Un soir, on a eu une coupure de courant éléctrique. Pour continuer notre soirée on a allumé une bougie et ma fille (qui avait 3 ans à ce moment là) a commencé a chanter "Joyeux anniversaire" :)
+
+##### Pas envie de chanter "Joyeux anniversaire" quand il y a une coupure de courant éléctrique.
 
 
