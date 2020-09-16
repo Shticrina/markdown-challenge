@@ -35,7 +35,8 @@
 
 Un soir, on a eu une coupure de courant éléctrique. Pour continuer notre soirée on a allumé une bougie et ma fille (qui avait 3 ans à ce moment là) a commencé a chanter "Joyeux anniversaire" :)
 
-##### Pas envie de chanter "Joyeux anniversaire" quand il y a une coupure de courant éléctrique.
+##### TL;DR 
+Pas envie de chanter "Joyeux anniversaire" quand il y a une coupure de courant éléctrique.
 
 
 [<< previous](https://www.markdownguide.org) || Cristina || [next >>](https://www.markdownguide.org)
