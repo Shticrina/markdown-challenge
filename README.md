@@ -39,4 +39,4 @@ Un soir, on a eu une coupure de courant éléctrique. Pour continuer notre soir�
 Pas envie de chanter "Joyeux anniversaire" quand il y a une coupure de courant éléctrique.
 
 
-[<< previous](charlene) || Cristina || [next >>](djamal)
+[<< previous](https://github.com/Charlene-Bx/markdown-challenge/blob/master/README.md) || Cristina || [next >>](https://github.com/traoredjamal92/markdown-challenge/blob/master/README.md)
