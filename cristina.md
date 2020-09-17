@@ -4,7 +4,7 @@
 <img src="https://github.com/Shticrina/markdown-challenge/blob/master/CristinaDinca.jpg" width="150">
 
 ### Github link: 
-*https://github.com/Shticrina/markdown-challenge/edit/master/README.md*
+*https://github.com/Shticrina*
 
 ### BeCode objectivs
 Starting BeCode webdev course is improving my skills, be there where every new technology is used, working as a team and be part of a great family where the main word is ***challenge***. 
