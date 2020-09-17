@@ -1,7 +1,12 @@
 # Cristina Dinca
 > *People always want more that they need...*
 
-![cristina-dinca](https://github.com/Shticrina/markdown-challenge/blob/master/CristinaDinca.jpg)
+#### original photo
+<img src="https://github.com/Shticrina/markdown-challenge/blob/master/CristinaDinca.jpg" width="150">
+
+#### original photo
+![cristina-dinca](https://github.com/Shticrina/markdown-challenge/blob/master/CristinaDinca.jpg =150x)
+
 
 ### Github link: 
 *https://github.com/Shticrina/markdown-challenge/edit/master/README.md*
